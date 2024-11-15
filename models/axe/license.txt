@@ -1,0 +1,11 @@
+Model Information:
+* title:	Axe
+* source:	https://sketchfab.com/3d-models/axe-93fea564b3734c92bcc0ca76ced497b8
+* author:	Pablopcb (https://sketchfab.com/pablopcb)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Axe" (https://sketchfab.com/3d-models/axe-93fea564b3734c92bcc0ca76ced497b8) by Pablopcb (https://sketchfab.com/pablopcb) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

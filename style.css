@@ -1,0 +1,20 @@
+body {
+  font-family: sans-serif;
+  margin: 0;
+  color: white;
+}
+
+section {
+  position: absolute;
+  left: 2em;
+}
+
+h1 {
+  font-size: 7em;
+  text-shadow: 0 0 0.5em black;
+}
+
+p {
+  font-size: 4em;
+  text-shadow: 0 0 0.5em black;
+}
